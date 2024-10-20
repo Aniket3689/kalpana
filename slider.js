@@ -1,50 +1,54 @@
-let currentSlide = 0;
-const slides = document.querySelectorAll('.slide');
-const totalSlides = slides.length;
+//step 1: get DOM
+let nextDom = document.getElementById('next');
+let prevDom = document.getElementById('prev');
 
-function showSlide(index) {
-    const slider = document.querySelector('.slider');
-    if (index >= totalSlides) {
-        currentSlide = 0;
-    } else if (index < 0) {
-        currentSlide = totalSlides - 1;
-    } else {
-        currentSlide = index;
+let carouselDom = document.querySelector('.carousel');
+let SliderDom = carouselDom.querySelector('.carousel .list');
+let thumbnailBorderDom = document.querySelector('.carousel .thumbnail');
+let thumbnailItemsDom = thumbnailBorderDom.querySelectorAll('.item');
+let timeDom = document.querySelector('.carousel .time');
+
+thumbnailBorderDom.appendChild(thumbnailItemsDom[0]);
+let timeRunning = 3000;
+let timeAutoNext = 7000;
+
+nextDom.onclick = function(){
+    showSlider('next');    
+}
+
+prevDom.onclick = function(){
+    showSlider('prev');    
+}
+let runTimeOut;
+let runNextAuto = setTimeout(() => {
+    next.click();
+}, timeAutoNext)
+function showSlider(type){
+    let  SliderItemsDom = SliderDom.querySelectorAll('.carousel .list .item');
+    let thumbnailItemsDom = document.querySelectorAll('.carousel .thumbnail .item');
+    
+    if(type === 'next'){
+        SliderDom.appendChild(SliderItemsDom[0]);
+        thumbnailBorderDom.appendChild(thumbnailItemsDom[0]);
+        carouselDom.classList.add('next');
+    }else{
+        SliderDom.prepend(SliderItemsDom[SliderItemsDom.length - 1]);
+        thumbnailBorderDom.prepend(thumbnailItemsDom[thumbnailItemsDom.length - 1]);
+        carouselDom.classList.add('prev');
     }
-    slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+    clearTimeout(runTimeOut);
+    runTimeOut = setTimeout(() => {
+        carouselDom.classList.remove('next');
+        carouselDom.classList.remove('prev');
+    }, timeRunning);
+
+    clearTimeout(runNextAuto);
+    runNextAuto = setTimeout(() => {
+        next.click();
+    }, timeAutoNext)
 }
 
-// Auto Slider Functionality
-setInterval(() => {
-    moveSlide(1);
-}, 5000); // Change slide every 5 seconds
 
-function moveSlide(n) {
-    showSlide(currentSlide + n);
-}
-
-
-var swiper = new Swiper('.swiper-container', {
-    loop: true,  // Enables infinite loop
-    autoplay: {
-        delay: 5000, // 5-second delay for auto-slide
-        disableOnInteraction: false, // Autoplay continues even after user interaction
-    },
-    navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-    },
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
-    effect: 'fade', // Optional: fade effect between slides
-    fadeEffect: {
-        crossFade: true
-    },
-    slidesPerView: 1,
-    spaceBetween: 0,
-});
 
 
 

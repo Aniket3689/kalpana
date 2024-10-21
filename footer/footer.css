@@ -11,6 +11,7 @@ footer{
     width: 100%;
     min-height: 350px;
     padding: 3rem 1rem;
+    margin-top: 50px;
 }
 .container {
    max-width: 1140px;

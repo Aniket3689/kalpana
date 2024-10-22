@@ -4,9 +4,8 @@
         "name":"Model Name: ENVY",
         "price": 200,
         "image": "img/1.png",
-        "description": "Dimesions = 1810*680*1160mm    /   Range = 80KM/Charge*    / Battery Type =  Lithium ion /  Battery Capacity = 48V 30h  / Battery Charge = Time 4-5Hrs / Moter Type =BLDC Hub  Motor Power = 250W  /  Charge  =6Amp Microcontroller Based  /  Wheel Size =90/90-12TL / Front Rear Brake =  Drum  / Speedometer LED Backlit  /Suspension = Telescopic /ChasisFrame=Reinforced Steel / Mode =3 Forward & 1 Reverse  /ClimBing =15degree / Loading Capacity =150Kg  /GroundClearance =190mm ",
-        "descriptio": "Dimesions = 1810*680*1160mm    /   Range = 80KM/Charge*    / Battery Type =  Lithium ion /  Battery Capacity = 48V 30h  / Battery Charge = Time 4-5Hrs / Moter Type =BLDC Hub  Motor Power = 250W  /  Charge  =6Amp Microcontroller Based  /  Wheel Size =90/90-12TL / Front Rear Brake =  Drum  / Speedometer LED Backlit  /Suspension = Telescopic /ChasisFrame=Reinforced Steel / Mode =3 Forward & 1 Reverse  /ClimBing =15degree / Loading Capacity =150Kg  /GroundClearance =190mm "
-
+        "description": "Dimesions = 1810*680*1160mm    /   Range = 80KM/Charge*    / Battery Type =  Lithium ion /  Battery Capacity = 48V 30h  / Battery Charge = Time 4-5Hrs / Moter Type =BLDC Hub  Motor Power = 250W  /  Charge  =6Amp Microcontroller Based  /  Wheel Size =90/90-12TL / Front Rear Brake =  Drum  / Speedometer LED Backlit  /Suspension = Telescopic /ChasisFrame=Reinforced Steel / Mode =3 Forward & 1 Reverse  /ClimBing =15degree / Loading Capacity =150Kg  /GroundClearance =190mm "
+        
 
     },
     {

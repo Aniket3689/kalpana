@@ -243,18 +243,85 @@
     </div>
 
     <!-- product-gallery -->
-
-
-    <div class="container">
-        <div class="title">PRODUCT LIST</div>
-        <div class="listProduct">
-
-        </div>
+    <div class="containe">
+        <button class="custom-btn">OUR PRODUCT!</button>
     </div>
+    <section class="product-gallery">
+        <div class="product-card">
+          <div class="image-container">
+            <img src="./image/2.png" alt="Product 1" class="product-image">
+          </div>
+          <h2 class="product-title">Product 1</h2>
+          <p class="product-description">A high-quality product with advanced features and great performance.</p>
+          <span class="product-price">$99.99</span>
+        </div>
+        <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
+          <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
+          <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
+          <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
+          <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
+          <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
+          <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
+          <div class="product-card">
+            <div class="image-container">
+              <img src="./image/2.png" alt="Product 1" class="product-image">
+            </div>
+            <h2 class="product-title">Product 1</h2>
+            <p class="product-description">A high-quality product with advanced features and great performance.</p>
+            <span class="product-price">$99.99</span>
+          </div>
 
-
-
-
+        <!-- Add more product items here -->
+      </section>
 
     <section class="contact-form">
         <h4 class="sectionHeader">contact us</h4>
@@ -268,7 +335,7 @@
                 <p class="para para2">Contact us for a quote , help to join the them.</p>
                 <input type="text" class="input" placeholder="your name">
                 <input type="text" class="input" placeholder="your email">
-                <input type="text" class="input" placeholder="your Subject">
+                <input type="text" class="input" placeholder="your Phone Number ">
                 <textarea class="input" cols="30" rows="5" placeholder="Your message..."></textarea>
                 <input type="submit" class="input submit" value="Send Message">
             </form>
@@ -395,43 +462,7 @@
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <script src="./testimoial/testimonial.js"></script>
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>
-        //Important note: If you have downloaded the code
-        // but still encounter errors when running the program,
-         //    please watch the video at this link because
-        // I have shown you how to run the project properly.
-        // https://www.youtube.com/watch?v=okyfcpZfPAU&t=142s
-        let products = null;
-        // get datas from file json
-        fetch('products.json')
-            .then(response => response.json())
-            .then(data => {
-                products = data;
-                addDataToHTML();
-        })
-
-        function addDataToHTML(){
-    // remove datas default from HTML
-        let listProductHTML = document.querySelector('.listProduct');
-
-        // add new datas
-        if(products != null) // if has data
-        {
-            products.forEach(product => {
-                let newProduct = document.createElement('a');
-                newProduct.href = './detail.html?id=' + product.id;
-                newProduct.classList.add('item');
-                newProduct.innerHTML = 
-                `<img src="${product.image}" alt="">
-                <h2>${product.name}</h2>
-                <div class="price">$${product.price}</div>`;
-                listProductHTML.appendChild(newProduct);
-
-            });
-        }
-    }
-
-    </script>
+   
 
 </body>
 

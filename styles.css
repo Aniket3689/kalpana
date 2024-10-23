@@ -508,7 +508,7 @@ header a{
   display: flex;
   justify-content: center;
   align-items: center;
- 
+
 
 }
 
@@ -586,6 +586,8 @@ header a{
   padding: 0;
   margin: o;
   border-radius: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .product-card {
@@ -599,6 +601,7 @@ header a{
   overflow: hidden;
   align-items: center;
   justify-content: center;
+
 }
 
 .product-card:hover {
@@ -612,7 +615,7 @@ header a{
   object-fit: cover;  /* Keep the image aspect ratio while filling the box */
   transition: transform 0.4s ease;
   text-align: center;
-  margin-left: 40px;
+  margin-left: 60px;
   margin-top: 30px;
  
 }

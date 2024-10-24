@@ -116,7 +116,7 @@ a{
 /* // ipad */
 @media only screen and (max-width: 992px) {
     .listProduct{
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
     .detail{
         grid-template-columns:  40% 1fr;
@@ -127,7 +127,7 @@ a{
 /* mobile */
 @media only screen and (max-width: 768px) {
     .listProduct{
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
     .detail{
         text-align: center;

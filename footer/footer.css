@@ -1,6 +1,6 @@
-body {
-   overflow-x: hidden; /* Disable vertical scrolling */
-   height: 100%; /* Ensure the body takes the full height */
+.container {
+   /* Disable vertical scrolling */
+   height: 50%; /* Ensure the body takes the full height */
    width: 100%; /* Ensure the body takes the full width */
 }
 
@@ -12,6 +12,7 @@ footer{
     min-height: 350px;
     padding: 3rem 1rem;
     margin-top: 50px;
+   
 }
 .container {
    max-width: 1140px;

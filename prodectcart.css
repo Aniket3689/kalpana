@@ -1,7 +1,7 @@
 /* .container{
     margin: 0;
     font-family: Poppins;
-}*/
+}
 .container{
     width: 900px;
     margin: auto;
@@ -9,8 +9,7 @@
     text-align: center;
     padding-top: 10px;
     transition: transform .5s;
-    font-family: Poppins;
-} 
+} */
 svg{
     width: 30px;
 }
@@ -37,7 +36,7 @@ header{
     right: -20px;
 }
 .title{
-    font-size: xx-large;
+    font-size: x-large
     
 }
 .listProduct .item img{

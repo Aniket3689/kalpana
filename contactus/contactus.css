@@ -21,7 +21,6 @@ body{
     font-family: 'Roboto Serif', serif;
     color: var(--textColor);
     background: var(--bodyBg);
-    padding-bottom: 5em;
 }
 
 section{

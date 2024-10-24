@@ -1,15 +1,4 @@
-/* .container{
-    margin: 0;
-    font-family: Poppins;
-}
-.container{
-    width: 900px;
-    margin: auto;
-    max-width: 90vw;
-    text-align: center;
-    padding-top: 10px;
-    transition: transform .5s;
-} */
+
 svg{
     width: 30px;
 }
@@ -36,7 +25,7 @@ header{
     right: -20px;
 }
 .title{
-    font-size: x-large
+    font-size:xx-large; 
     
 }
 .listProduct .item img{
@@ -44,7 +33,10 @@ header{
     filter: drop-shadow(0 50px 20px #0009);
 }
 .listProduct{
+    
     display: grid;
+    text-align: center;
+    font-family: Poppins;
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }

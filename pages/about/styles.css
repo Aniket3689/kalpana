@@ -1,6 +1,6 @@
 .about-section {
     font-family: Arial, sans-serif;
-
+     overflow-x: hidden;
     display: flex;
     justify-content: center;
     align-items: center;

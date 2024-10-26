@@ -219,78 +219,80 @@
 
 .list-container {
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 10vh;
+    min-height: 100vh;
     background-color: #f5f5f5;
-}
+  }
 
-/* Container for the list */
-.list-container {
+  /* Container for the list */
+  .list-container {
     max-width: 600px;
-    width: 70%;
+    width: 90%;
     background-color: #ffffff;
-   
+    padding: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
+  }
 
-/* List styling */
-.icon-list {
+  /* List styling */
+  .icon-list {
     list-style: none;
-  
-}
-
-.icon-list li {
-   
+    padding: 0;
+    margin: 0;
+  }
+  .icon-list li {
+    display: flex;
     align-items: center;
-   
-  
-    transition: 0.3s ease;
-}
-
-.icon-list li:hover {
-    background-color: #343F4B;
-}
-
-.icon-list li:last-child {
+    padding: 15px;
+    border-bottom: 1px solid white;
+    transition: background-color 0.3s ease;
+  }
+  .icon-list li:hover {
+    background-color: black;
+  }
+  .icon-list li:last-child {
     border-bottom: none;
-}
+  }
 
-/* Icon styling */
-.icon {
+  /* Icon styling */
+  .icon-container {
+    width: 40px; /* Fixed width to align all icons */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .icon {
     color: #2e7d32;
     font-size: 1.5em;
-    margin-right: 15px;
     transition: transform 0.3s ease, color 0.3s ease;
-}
-
-.icon-list li:hover .icon {
+  }
+  .icon-list li:hover .icon {
     transform: scale(1.2);
-    color: #1b5e20;
-}
-
-/* Text content */
-.text-content {
-    flex: 1;
-    color: #37474f;
-    font-size: 1.1em;
     color: white;
-}
+  }
 
-/* Responsive adjustments */
-@media (max-width: 480px) {
+  /* Text content */
+  .text-content {
+    flex: 1;
+    color: wheat;
+    font-size: 1.1em;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 480px) {
     .icon-list li {
-        flex-direction: column;
-        align-items: flex-start;
+      flex-direction: column;
+      align-items: flex-start;
     }
-
-    .icon {
-        margin-bottom: 8px;
+    .icon-container {
+      width: auto;
+      margin-bottom: 8px;
     }
-
     .text-content {
-        font-size: 1em;
+      font-size: 1em;
     }
-}
+  }

@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     min-height: 30vh;
-    padding: 30px;
+   
     margin-left: 20px;
     margin-bottom: 50px;
     margin-top: 30px;
@@ -231,7 +231,7 @@
     max-width: 600px;
     width: 70%;
     background-color: #ffffff;
-    padding: 20px;
+   
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }

@@ -11,7 +11,7 @@
    
     margin-bottom: 50px;
     margin-top: 30px;
-    background-color: #f1ecec; /* Soft background color */
+  /* Soft background color */
   }
 
   /* Container for the about section */
@@ -90,6 +90,107 @@
       font-size: 1.75em;
     }
     .about-content p {
+      font-size: 0.9em;
+    }
+  }
+
+
+
+  .mv-section  {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+  }
+
+  /* Main container for Mission/Vision/Value */
+  .mv-section {
+    max-width: 1200px;
+    width: 90%;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  /* Title styling */
+  .mv-section h1 {
+    font-size: 2.5em;
+    color: #2e7d32;
+    margin-bottom: 20px;
+  }
+
+  /* Container for each item */
+  .mv-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 100%;
+  }
+
+  /* Card styling for Mission, Vision, and Value */
+  .mv-card {
+    flex: 1;
+    min-width: 280px;
+    max-width: 360px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  .mv-card:hover {
+    transform: translateY(-10px); /* Elevates on hover */
+  }
+
+  /* Image styling */
+  .mv-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  /* Card content */
+  .mv-content {
+    padding: 20px;
+  }
+  .mv-content h2 {
+    font-size: 1.8em;
+    color: #37474f;
+    margin: 0 0 10px;
+  }
+  .mv-content p {
+    font-size: 1em;
+    color: #607d8b;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .mv-section h1 {
+      font-size: 2em;
+    }
+    .mv-card {
+      margin: 10px 0;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .mv-section h1 {
+      font-size: 1.75em;
+    }
+    .mv-content h2 {
+      font-size: 1.5em;
+    }
+    .mv-content p {
       font-size: 0.9em;
     }
   }

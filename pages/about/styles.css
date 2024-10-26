@@ -247,12 +247,14 @@
   .icon-list li {
     display: flex;
     align-items: center;
-    padding: 15px;
+    padding: 5px;
+    gap: 10px;
     border-bottom: 1px solid white;
     transition: background-color 0.3s ease;
   }
   .icon-list li:hover {
     background-color: black;
+    border-radius: 20px;
   }
   .icon-list li:last-child {
     border-bottom: none;

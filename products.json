@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name":" LD01 LOUNGE CHAIR",
+        "names":" Aniket",
         "price": 200,
         "image": "image/5.png"
     },
@@ -33,19 +34,19 @@
         "id": 6,
         "name":" LD06 LOUNGE CHAIR",
         "price": 200,
-        "image": "image/3.png"
+        "image": "image/10.jpg"
     },
     {
         "id": 7,
         "name":" LD07 LOUNGE CHAIR",
         "price": 200,
-        "image": "image/3.png"
+        "image": "image/11.png"
     },
     {
         "id": 8,
         "name":" LD08 LOUNGE CHAIR",
         "price": 200,
-        "image": "image/3.png"
+        "image": "image/12.png"
     }
 
 ]

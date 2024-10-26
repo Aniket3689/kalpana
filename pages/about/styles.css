@@ -1,5 +1,96 @@
-body {
-    overflow-x: hidden; /* Disable vertical scrolling */
-    height: 100%; /* Ensure the body takes the full height */
-    width: 100%; /* Ensure the body takes the full width */
-}
+
+
+.about-section  {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: #f1ecec; /* Soft background color */
+  }
+
+  /* Container for the about section */
+  .about-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    width: 90%;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  .about-section:hover {
+    transform: scale(1.02); /* Slight zoom on hover */
+  }
+
+  /* Image container and animation */
+  .about-image {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f1f8e9; /* Light green for a softer contrast */
+    padding: 20px;
+    margin: 20px;
+  }
+  .about-image img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s ease-in-out;
+    border-radius: 12px;
+  }
+  .about-image img:hover {
+    transform: scale(1.15) rotate(2deg); /* Zoom and slight rotation on hover */
+  }
+
+  /* Content styling */
+  .about-content {
+    flex: 1;
+    /* padding: 40px; */
+    color: #37474f; /* Dark gray for text */
+  }
+  .about-content h2 {
+    font-size: 2.5em;
+    color: #2e7d32; /* Green for header */
+    margin: 0 0 15px;
+  }
+  .about-content p {
+    line-height: 1.8;
+    font-size: 1.1em;
+    color: #607d8b; /* Softer gray-blue for text */
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .about-section {
+      flex-direction: column;
+      text-align: center;
+    }
+    .about-content {
+      padding: 20px;
+    }
+    .about-content h2 {
+      font-size: 2em;
+    }
+    .about-content p {
+      font-size: 1em;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .about-content h2 {
+      font-size: 1.75em;
+    }
+    .about-content p {
+      font-size: 0.9em;
+    }
+  }

@@ -28,6 +28,8 @@ closeCart.addEventListener('click', () => {
                 newProduct.innerHTML = 
                 `<img src="${product.image}" alt="">
                 <h2>${product.name}</h2>
+                <h2>${product.names}</h2>
+
                 <div class="price">$${product.price}</div>
                 <button class="addCart">Call </button>`;
                 listProductHTML.appendChild(newProduct);

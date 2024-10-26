@@ -10,7 +10,7 @@
   
    
     margin-bottom: 50px;
-    margin-top: 50px;
+    margin-top: 30px;
     background-color: #f1ecec; /* Soft background color */
   }
 
@@ -39,7 +39,6 @@
     align-items: center;
     justify-content: center;
     background-color: #f1f8e9; /* Light green for a softer contrast */
-    padding: 14px;
     margin: 20px;
   }
   .about-image img {

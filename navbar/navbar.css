@@ -38,11 +38,13 @@ nav {
 
 .navbar-toggler {
     border: none;
+    color: aliceblue;
 }
 
 .navbar-toggler-icon {
     font-size: 1.5rem;
-    color: #f0bf6a;
+   background-color: #f0bf6a;
+   
 }
 
 .navbar-nav .nav-link {

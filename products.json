@@ -47,6 +47,30 @@
         "name":" LD08 LOUNGE CHAIR",
         "price": 200,
         "image": "image/12.png"
+    },
+    {
+        "id": 6,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/10.jpg"
+    },
+    {
+        "id": 7,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/11.png"
+    },
+    {
+        "id": 8,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/12.png"
+    },
+    {
+        "id": 7,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/11.png"
     }
 
 ]

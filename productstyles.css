@@ -48,7 +48,7 @@ a{
     text-align: left;
 }
 .detail .image img{
-    max-width: 100%;
+    max-width: 80%;
 }
 .detail .image{
     position: relative;

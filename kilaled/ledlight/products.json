@@ -54,6 +54,98 @@
         "price": 200,
         "image": "img/8.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 9,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/9.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 10,
+        "name":" LD02 LOUNGE CHAIR",
+        "price": 250,
+        "image": "img/10.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 11,
+        "name":" LD03 LOUNGE CHAIR",
+        "price": 290,
+        "image": "img/11.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 12,
+        "name":" LD04 LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/12.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 13,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "img/13.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 14,
+        "name":" LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/14.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 15,
+        "name":" LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/15.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 16,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/16.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 17,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/17.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 18,
+        "name":" LD02 LOUNGE CHAIR",
+        "price": 250,
+        "image": "img/18.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 19,
+        "name":" LD03 LOUNGE CHAIR",
+        "price": 290,
+        "image": "img/19.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 20,
+        "name":" LD04 LOUNGE CHAIR",
+        "price": 200,
+        "image": "img/20.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+    },
+    {
+        "id": 21,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "img/21.png",
+        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
+
 
 ]

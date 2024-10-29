@@ -99,7 +99,8 @@
                 <h1 class="name"></h1>
                 <div class="price"></div>
                 <div class="buttons">
-                    <button>Check Out</button>
+                    <a href="tel:+919319314233"> <button>Call Me to press it  </button></a>
+                   
                     <button>Add To Cart
                         <span>
                             <svg class="" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -220,8 +221,8 @@
                 newProduct.classList.add('item');
                 newProduct.innerHTML =
                     `<img src="${product.image}" alt="">
-            <h2>${product.name}</h2>
-            <div class="price">$${product.price}</div>`;
+                     <h2>${product.name}</h2>
+                    <div class="price">${product.price}</div>`;
                 listProduct.appendChild(newProduct);
             });
         }

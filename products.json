@@ -43,30 +43,7 @@
         "id": 8,
         "name":"Model Name: RETRO",
         "image": "image/12.png"
-    },
-    {
-        "id": 9,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/10.jpg"
-    },
-    {
-        "id": 10,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/11.png"
-    },
-    {
-        "id": 11,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/12.png"
-    },
-    {
-        "id": 12,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/11.png"
     }
+    
 
 ]

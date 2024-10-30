@@ -146,3 +146,39 @@ const initApp = () => {
     })
 }
 initApp();
+
+
+
+const slider = document.getElementById('testimonialSlider');
+const slides = document.querySelectorAll('.testimonial-slide');
+const prevBtn = document.getElementById('prevBtn');
+const nextBtn = document.getElementById('nextBtn');
+let currentSlide = 0;
+
+// Function to show a specific slide
+function showSlide(index) {
+  slides.forEach((slide, i) => {
+    slide.classList.remove('active');
+    if (i === index) slide.classList.add('active');
+  });
+}
+
+// Show the first slide initially
+showSlide(currentSlide);
+
+// Next and Previous Button Event Listeners
+nextBtn.addEventListener('click', () => {
+  currentSlide = (currentSlide + 1) % slides.length;
+  showSlide(currentSlide);
+});
+
+prevBtn.addEventListener('click', () => {
+  currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+  showSlide(currentSlide);
+});
+
+// Auto-slide every 5 seconds
+setInterval(() => {
+  currentSlide = (currentSlide + 1) % slides.length;
+  showSlide(currentSlide);
+}, 5000);

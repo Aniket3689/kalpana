@@ -1,61 +1,43 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
+        "name":" OMEGA",
         "price": 200,
         "image": "img/1.png",
-        "descriptions": " Bike Type Start Type    Standard",
+       " Bike" :"  Bike  Type Start Type Standard",
+       "Maximum":"Maximum Torque Fuel Kick, Self",
+       "typeNo":"Type No. Of Gears 8 Nm @ 4500 rpm",
+       "Battery":"Battery Type Battery Electric",
+       "power":"Power Speed Brake 3",
+       "Top":"Type Top Speed Lithium",
+       "kmph":"(kmph) Wheel Size ==>60V-52AH & 60V-34AH",
+       "inches":"(inches) Wheel Type 70-80", 
+       "Transmission":"TransmissionType ==>Drum",
+       "Suspension":"Suspension ==>Type 85",
+      "Loading":"Loading Capacity No. of 18",
+      "Batteries":"Batteries==>Battery Spoke/Alloy",
+      "Charging_Time":"Charging Time ==>Band Drive"
 
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
+        "name":"  OMEGA-X",
         "price": 250,
         "image": "img/2.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
-        "image": "img/3.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
-        "image": "img/4.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
-        "image": "img/5.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
-        "image": "img/6.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
-        "image": "img/7.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "img/8.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "Maximum":"Maximum Torque Fuel Kick, Self",
+       "typeNo":"Type No. Of Gears 8 Nm @ 4500 rpm",
+       "Battery":"Battery Type Battery Electric",
+       "power":"Power Speed Brake 3",
+       "Top":"Type Top Speed Lithium",
+       "kmph":"(kmph) Wheel Size ==>60V-52AH & 60V-34AH",
+       "inches":"(inches) Wheel Type 70-80", 
+       "Transmission":"TransmissionType ==>Drum",
+       "Suspension":"Suspension ==>Type 85",
+      "Loading":"Loading Capacity No. of 18",
+      "Batteries":"Batteries==>Battery Spoke/Alloy",
+      "Charging_Time":"Charging Time ==>Band Drive"
     }
+   
 
 ]

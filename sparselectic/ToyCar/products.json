@@ -1,108 +1,198 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
+        "name":" #FUN004",
         "price": 200,
         "image": "img/1.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
+        "name":" #FUN004",
         "price": 250,
         "image": "img/2.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
+        "name":" #FUN005",
         "price": 290,
         "image": "img/3.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
+        "name":"#FUN005",
         "price": 200,
         "image": "img/4.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
+        "name":" #FUN005",
         "price": 300,
         "image": "img/5.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
+        "name":"#FUN006",
         "price": 200,
         "image": "img/6.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
+        "name":"#FUN007",
         "price": 200,
         "image": "img/7.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "name":" #FUN009",
         "price": 200,
         "image": "img/8.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "id": 9,
+        "name":"#FUN0011",
         "price": 200,
         "image": "img/9.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "id": 10,
+        "name":" #FUN00511",
         "price": 200,
         "image": "img/10.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>3 Motors",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 & SD Port",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Modes of Operation - Self Driven, Remote & Phone App",
+        "SPECIAL_FEATURE":"SPECIAL_FEATURE==>Swing Feature & Multifunctional Remote Controller",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "id": 11,
+        "name":"#FUN0022",
         "price": 200,
         "image": "img/11.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>1 Big Moter",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 ",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Hand Race",
+        "SPECIAL_FEATURE":"Special Feature ==> Big Size Bike",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "id": 12,
+        "name":" #FUN0022",
         "price": 200,
         "image": "img/12.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>1 Big Moter",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 ",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Hand Race",
+        "SPECIAL_FEATURE":"Special Feature ==> Big Size Bike",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "id": 13,
+        "name":"#FUN0022",
         "price": 200,
         "image": "img/13.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>1 Big Moter",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 ",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Hand Race",
+        "SPECIAL_FEATURE":"Special Feature ==> Big Size Bike",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "id": 14,
+        "name":"#FUN0022",
         "price": 200,
         "image": "img/14.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>1 Big Moter",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 ",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Hand Race",
+        "SPECIAL_FEATURE":"Special Feature ==> Big Size Bike",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     },
     {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "id": 15,
+        "name":"#FUN0022",
         "price": 200,
         "image": "img/15.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "BATTERY":"BATTERY==>2 BATTERIES 6V 4.5AH",
+        "MOTOR":"MOTOR==>1 Big Moter",
+        "MUSIC_SUPPORT":"MUSIC SUPPORT==>USB Port, Bluetooth Connectivity, MP3 ",
+        "DRIVE_SUPPORT":"DRIVE SUPPORT==>Hand Race",
+        "SPECIAL_FEATURE":"Special Feature ==> Big Size Bike",
+        "COLOURS":"COLOURS==>Red, White & Black",
+        "PACKAGE_SIZE":"PACKAGE SIZE==>115x59x34 cm"
     }
 
 

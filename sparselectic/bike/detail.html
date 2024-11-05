@@ -110,8 +110,21 @@
                         </button>
                     </div>
                 </div>
-                <div class="description"></div>
-                <div class="descriptions"></div>
+                <div style="font-weight: 400; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; ">
+                    <div class="Maximum"></div>
+                    <div class="typeNo"></div>
+                    <div class="Battery"></div>
+                    <div class="power"></div>
+                    <div class="Top"></div>
+                    <div class="kmph"></div>
+                    <div class="inches"></div>
+                    <div class="Transmission"></div>
+                    <div class="Suspension"></div>
+                    <div class="Loading"></div>
+                    <div class="Batteries"></div>
+                    <div class="Charging_Time"></div>
+                </div>
+
 
             </div>
         </div>
@@ -126,7 +139,7 @@
         <div class="container">
             <div class="row">
                 <div class="col" id="company">
-                    <img src="images/logo.png" alt="" class="logo">
+                    <img src="/image/logo.png" alt="" class="logo">
                     <p>
                         We are specialized in designings, make your business a brand.
                         Try our premium services.
@@ -211,8 +224,19 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.description').innerText = '$' + thisProduct.description;
-            detail.querySelector('.descriptions').innerText = '$' + thisProduct.descriptions;
+            detail.querySelector('.Maximum').innerText = '$' + thisProduct.Maximum;
+            detail.querySelector('.typeNo').innerText = '$' + thisProduct.typeNo;
+            detail.querySelector('.Battery').innerText = '$' + thisProduct.Battery;
+            detail.querySelector('.power').innerText = '$' + thisProduct.power;
+            detail.querySelector('.Top').innerText = '$' + thisProduct.Top;
+            detail.querySelector('.kmph').innerText = '$' + thisProduct.kmph;
+            detail.querySelector('.inches').innerText = '$' + thisProduct.inches;
+            detail.querySelector('.Transmission').innerText = '$' + thisProduct.Transmission;
+            detail.querySelector('.Suspension').innerText = '$' + thisProduct.Suspension;
+            detail.querySelector('.Loading').innerText = '$' + thisProduct.Loading;
+            detail.querySelector('.Batteries').innerText = '$' + thisProduct.Batteries;
+            detail.querySelector('.Charging_Time').innerText = '$' + thisProduct.Charging_Time;
+
 
 
             (products.filter(value => value.id != productId)).forEach(product => {

@@ -111,7 +111,10 @@
                         </button>
                     </div>
                 </div>
-                <div class="description"></div>
+                <div class="Range"></div>
+                <div class="Ranges"></div>
+                <div class="chgargingtime"></div>
+
             </div>
         </div>
 
@@ -210,9 +213,9 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.price').innerText = '$' + thisProduct.price;
-            detail.querySelector('.description').innerText = '$' + thisProduct.description;
-
+            detail.querySelector('.Range').innerText = '$' + thisProduct.Range;
+            detail.querySelector('.Ranges').innerText = '$' + thisProduct.Ranges;
+            detail.querySelector('.chgargingtime').innerText = '$' + thisProduct.chgargingtime;
 
             (products.filter(value => value.id != productId)).forEach(product => {
                 let newProduct = document.createElement('a');

@@ -111,7 +111,18 @@
                         </button>
                     </div>
                 </div>
-                <div class="description"></div>
+                <div class="BATTERY"></div>
+                <div class="MOTOR"></div>
+                <div class="MUSIC_SUPPORT"></div>
+                <div class="DRIVE_SUPPORT"></div>
+                <div class="SPECIAL_FEATURE"></div>
+                <div class="COLOURS"></div>
+                <div class="PACKAGE_SIZE"></div>
+                
+
+
+
+
             </div>
         </div>
 
@@ -125,7 +136,7 @@
         <div class="container">
             <div class="row">
                 <div class="col" id="company">
-                    <img src="images/logo.png" alt="" class="logo">
+                    <img src="/image/logo.png" alt="" class="logo">
                     <p>
                         We are specialized in designings, make your business a brand.
                         Try our premium services.
@@ -211,7 +222,16 @@
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
             detail.querySelector('.price').innerText = '$' + thisProduct.price;
-            detail.querySelector('.description').innerText = '$' + thisProduct.description;
+            detail.querySelector('.BATTERY').innerText = '$' + thisProduct.BATTERY;
+            detail.querySelector('.MOTOR').innerText = '$' + thisProduct.MOTOR;
+            detail.querySelector('.MUSIC_SUPPORT').innerText = '$' + thisProduct.MUSIC_SUPPORT;
+            detail.querySelector('.DRIVE_SUPPORT').innerText = '$' + thisProduct.DRIVE_SUPPORT;
+            detail.querySelector('.SPECIAL_FEATURE').innerText = '$' + thisProduct.SPECIAL_FEATURE;
+            detail.querySelector('.COLOURS').innerText = '$' + thisProduct.COLOURS;
+            detail.querySelector('.PACKAGE_SIZE').innerText = '$' + thisProduct.PACKAGE_SIZE;
+
+
+
 
 
             (products.filter(value => value.id != productId)).forEach(product => {

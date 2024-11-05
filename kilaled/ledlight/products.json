@@ -1,155 +1,218 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
-        "names":" LD01 LOUNGE CHAIR",
-
-        "price": 200,
         "image": "img/1.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric.",
-        "descriptions": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":" Model no :KILA-BL-3/5/7/12/15/18/20W",
+        
+        "two":"Watts: 3/5/7/12/15/18/20Watts",
+        "three":"lumens: 360/600/840/1080/1440/1800/2160/2400",
+        "four":"",
+        "five":""
 
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
         "image": "img/2.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":" Model.no ==>KILA-AL-0.5W", 
+        "two":"Watts :0.5Watt",
+        "three":"Lumens: 30",
+        "four":"base: B22",
+        "five":"colours: Red Green Yellow White Orange Blue Pink"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
         "image": "img/3.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"Model: KILA-SB-30/40/50W",
+       
+        "two":"Watts :30/40/50Watt",
+        "three":"Lumens: 3000/4000/5000 ",
+        "four":"Body Housing /Heavy Duty Metal",
+        "five":"colour temp :6500/3000k"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/4.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"model: KILA-TSB-10/12/15W",
+       
+        "two":"Watts:10/12/155 Watts",
+        "three":"Lumens:  1100/1320/1650",
+        "four":"Rotation :360",
+        "five":"Colour temp ==>6500k"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
         "image": "img/5.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":"Model no. : KILA-FSD-6W-RD & KILA-FSD-6D-SQ",
+        "two":"Watts:6/12/15Watts",
+        "three":"Lumens:  660/1320/1980",
+        "four":"Housing :Aluminium",
+        "five":"Shape Available : Round&Square"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/6.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":"Model no. : KILA-FSD-6W-RD & KILA-FSD-6D-SQ",
+        "two":"Watts:6/12/15Watts",
+        "three":"Lumens:  660/1320/1980",
+        "four":"Housing :Aluminium",
+        "five":"Shape Available : Round&Square"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/7.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"Model no. : KILA-COB-DL-5/7/10/13W ",
+        "two":"Watts:6/7/10/13Watts",
+        "three":"Lumens:  500/700/1000/1300",
+        "four":"Housing :Aluminium",
+        "five":"Cut Out 2.75 /2.75/3.75/3.75 inches"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/8.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" KILA-24W-3528 KILA-48W-5050",
+      
+        "two":"Watts :24/48Watts",
+        "three":"LED TYPE :3528 SMD 4200",
+        "four":"Lumens:  4200/7200",
+        "five":"Number Of LED :60PER Meter "
     },
     {
         "id": 9,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/9.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" KILA-HD-ST-25/40/50W",
+      
+        "two":"Watts :25/40/50Watts",
+        "three":"Body housing Heaving Duty Metal",
+        "four":"Lumens:  2500/4000/5000",
+        "five":"Colour Temp.6500k3000k "
     },
     {
         "id": 10,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
         "image": "img/10.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" KILA-HD-ST-20/30/50/100W",
+      
+        "two":"Watts :20/30/50/100Watts",
+        "three":"Body housing :Heaving Duty Metal",
+        "four":"Lumens:  2000/3000/5000/10000",
+        "five":"Colour Temp.6500k "
     },
     {
         "id": 11,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
         "image": "img/11.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+       "name":" KILA-HD-ST-20/30/50/100W",
+      
+        "two":"Watts :20/30/50/100Watts",
+        "three":"Body housing :Heaving Duty Metal",
+        "four":"Lumens:  1100/2200/3300/55000",
+        "five":"Colour Temp:6500k "
     },
     {
         "id": 12,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/12.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" KILA-EMFL-10W",
+      
+        "two":"1000Watts",
+        "three":"Charging Time 8 Hours",
+        "four":"Emergency Backup :UPto 4Hours",
+        "five":"Colour Temp:6500k "
     },
     {
         "id": 13,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
         "image": "img/13.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" KILA-UFOHB-100/150w/200W",
+      
+        "two":"100/150/200Watts",
+        "three":"Lumens:  12000/18000/24000",
+        "four":"Housing :Aluminium",
+        "five":"Colour Temp:6500k "
     },
     {
         "id": 14,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/14.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" LD06 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     },
     {
         "id": 15,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/15.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" LD07 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     },
     {
         "id": 16,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/16.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" LD08 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     },
     {
         "id": 17,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/17.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" LD01 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     },
     {
         "id": 18,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
         "image": "img/18.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" LD02 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     },
     {
         "id": 19,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
         "image": "img/19.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" LD03 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     },
     {
         "id": 20,
-        "name":" name: - LD04 LOUNGE CHAIR",
-        
-        "price": 200,
         "image": "img/20.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" name: - LD04 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     },
     {
         "id": 21,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
         "image": "img/21.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":" LD05 LOUNGE CHAIR",
+        "2":"",
+        "3":"",
+        "4":"",
+        "5":""
     }
 
 

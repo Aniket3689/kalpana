@@ -111,8 +111,11 @@
                         </button>
                     </div>
                 </div>
-                <div class="description"></div>
-                <div class="descriptions"></div>
+                <div class="two"></div>
+                <div class="three"></div>
+                <div class="four"></div>
+                <div class="five"></div>
+
 
             </div>
         </div>
@@ -212,9 +215,11 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.price').innerText = '$' + thisProduct.price;
-            detail.querySelector('.description').innerText = '$' + thisProduct.description;
-            detail.querySelector('.descriptions').innerText = '$' + thisProduct.descriptions;
+            detail.querySelector('.two').innerText = '$' + thisProduct.two;
+            detail.querySelector('.three').innerText = '$' + thisProduct.three;
+            detail.querySelector('.four').innerText = '$' + thisProduct.four;
+            detail.querySelector('.five').innerText = '$' + thisProduct.five;
+
 
 
             (products.filter(value => value.id != productId)).forEach(product => {
@@ -224,9 +229,9 @@
                 newProduct.innerHTML =
                     `<img src="${product.image}" alt="">
                    <h2>${product.name}</h2>
-                     <h2>${product.names}</h2>
+                    
 
-            <div class="price">$${product.price}</div>`;
+           </div>`;
                 listProduct.appendChild(newProduct);
             });
         }

@@ -98,7 +98,6 @@
             </div>
             <div class="content">
                 <h1 class="name"></h1>
-                <div class="price"></div>
                 <div class="buttons">
                     <div class="buttons">
                         <button>
@@ -111,7 +110,27 @@
                         </button>
                     </div>
                 </div>
-                <div class="description"></div>
+                
+                <div class="Dimesions"></div>
+                <div class="Range"></div>
+                <div class="Battery_Type"></div>
+                <div class="Battery_Capacity"></div>
+                <div class="Battery_Charge_Time"></div>
+                <div class="Moter_type"></div>
+
+                <div class="Motor_Power"></div>
+                <div class="Charger"></div>
+                <div class="Wheel_Size"></div>
+                <div class="Front_Rear_Brake"></div>
+                <div class="Speedometer"></div>
+                <div class="Suspension"></div>
+                <div class="Chasis_Frame"></div>
+                <div class="Mode"></div>
+                <div class="Climbing"></div>
+                <div class="descriptionLoading_Capacity"></div>
+                <div class="Ground_Clearance"></div>
+              
+
             </div>
         </div>
 
@@ -210,8 +229,25 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.price').innerText = '$' + thisProduct.price;
-            detail.querySelector('.description').innerText = '$' + thisProduct.description;
+            detail.querySelector('.Dimesions').innerText = '$' + thisProduct.Dimesions;
+            detail.querySelector('.Range').innerText = '$' + thisProduct.Range;
+            detail.querySelector('.Battery_Type').innerText = '$' + thisProduct.Battery_Type;
+            detail.querySelector('.Battery_Capacity').innerText = '$' + thisProduct.Battery_Capacity;
+            detail.querySelector('.Battery_Charge_Time').innerText = '$' + thisProduct.Battery_Charge_Time;
+            detail.querySelector('.Moter_type').innerText = '$' + thisProduct.Moter_type;
+
+            detail.querySelector('.Motor_Power').innerText = '$' + thisProduct.Motor_Power;
+            detail.querySelector('.Charger').innerText = '$' + thisProduct.Charger;
+            detail.querySelector('.Wheel_Size').innerText = '$' + thisProduct.Wheel_Size;
+            detail.querySelector('.Front_Rear_Brake').innerText = '$' + thisProduct.Front_Rear_Brake;
+            detail.querySelector('.Speedometer').innerText = '$' + thisProduct.Speedometer;
+            detail.querySelector('.Suspension').innerText = '$' + thisProduct.Suspension;
+            detail.querySelector('.Chasis_Frame').innerText = '$' + thisProduct.Chasis_Frame;
+            detail.querySelector('.Mode').innerText = '$' + thisProduct.Mode;
+            detail.querySelector('.Climbing').innerText = '$' + thisProduct.Climbing;
+            detail.querySelector('.descriptionLoading_Capacity').innerText = '$' + thisProduct.descriptionLoading_Capacity;
+            detail.querySelector('.Ground_Clearance').innerText = '$' + thisProduct.Ground_Clearance;
+           
 
 
             (products.filter(value => value.id != productId)).forEach(product => {
@@ -221,7 +257,7 @@
                 newProduct.innerHTML =
                     `<img src="${product.image}" alt="">
             <h2>${product.name}</h2>
-            <div class="price">$${product.price}</div>`;
+           `;
                 listProduct.appendChild(newProduct);
             });
         }

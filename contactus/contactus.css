@@ -12,8 +12,8 @@
     --formBg:#343F4B;
     --textColor:#fff;
     --primaryColor:#0076A3;
-    --paraColor:#5e6c79;
-    --paraColor:#74828f;
+    --paraColor:#fff;
+    --paraColor:#fff;
 
 }
 
@@ -57,6 +57,9 @@ section{
 .contactForm{
     display: grid;
     gap: 3em;
+}
+.ani{
+    color: #f0bf6a;
 }
 
 form{
@@ -135,6 +138,9 @@ form{
 .map iframe{
     width: 100%;
     height: 100%;
+}
+.text{
+    color:#f0bf6a; ;
 }
 
 .contactMethod{

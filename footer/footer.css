@@ -41,7 +41,7 @@ footer{
    margin-bottom:25px;
 }
 .col h3{
-   color:#ff014fff;
+   color:#f0bf6a;;
    margin-bottom: 20px;
    position: relative;
    cursor: pointer;
@@ -50,7 +50,7 @@ footer{
    content: '';
    height:3px;
    width:0px;
-   background-color: #ff014fff;
+   background-color: #f0bf6a;;
    position: absolute;
    bottom: 0;
    left:0;
@@ -61,7 +61,7 @@ footer{
    width:30px
 }
 .col .social a i{
-   color:#ff014fff;
+   color:#f0bf6a;
    margin-top:2rem;
    margin-right: 5px;
    transition: 0.3s ease;
@@ -85,7 +85,7 @@ footer{
    position: absolute;
    top:5px;
    left:-10px;
-   background-color: #ff014fff;
+   background-color: #f0bf6a;;
    transition: 0.5s ease;
    opacity: 0;
 }
@@ -94,7 +94,7 @@ footer{
 }
 .col .links a:hover{
    transform: translateX(-8px);
-   color:#ff014fff;
+   color:#f0bf6a;
 }
 .col .contact-details{
    display: inline-flex;

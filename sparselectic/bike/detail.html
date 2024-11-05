@@ -98,20 +98,21 @@
             </div>
             <div class="content">
                 <h1 class="name"></h1>
-                <div class="price"></div>
                 <div class="buttons">
                     <div class="buttons">
                         <button>
-                        <i class="fa fa-phone"></i>
-                        <a href="tel:+919319314233">+91 9319314233</a> 
-                    </button>
-                        <button> 
-                             <i class="fab fa-whatsapp"></i>
-                            <a href="https://wa.me/9319314459" target="_blank">+91 9319314459</a> 
+                            <i class="fa fa-phone"></i>
+                            <a href="tel:+919319314233">+91 9319314233</a>
+                        </button>
+                        <button>
+                            <i class="fab fa-whatsapp"></i>
+                            <a href="https://wa.me/9319314459" target="_blank">+91 9319314459</a>
                         </button>
                     </div>
                 </div>
                 <div class="description"></div>
+                <div class="descriptions"></div>
+
             </div>
         </div>
 
@@ -210,8 +211,8 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.price').innerText = '$' + thisProduct.price;
             detail.querySelector('.description').innerText = '$' + thisProduct.description;
+            detail.querySelector('.descriptions').innerText = '$' + thisProduct.descriptions;
 
 
             (products.filter(value => value.id != productId)).forEach(product => {
@@ -221,7 +222,7 @@
                 newProduct.innerHTML =
                     `<img src="${product.image}" alt="">
             <h2>${product.name}</h2>
-            <div class="price">$${product.price}</div>`;
+            `;
                 listProduct.appendChild(newProduct);
             });
         }

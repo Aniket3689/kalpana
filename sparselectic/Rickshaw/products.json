@@ -28,10 +28,10 @@
         "name":"  Model Name: KNIGHT-X",
         "price": 250,
         "image": "img/2.png",
-        "Moter_Power_Ratinge":"Moter_Power_Ratinge==>1000W 24 Tube (50 Amp) 20amp",
-        "Controller":" Controller==>43mm Dia, 31 inches Serni Hydraulic",
-        "Convertor":"Convertor==>  Digital / Analog Center Locking 3.75",
-        "Shocker":"Shocker==> 12 Ceat/TVS 33 Inchs With External",
+        "Motor_Type":" Motor Type ==> BLDC Hub",
+        "Motor_Power":"Motor Power ==> 250W",
+        "Charger":"Charger==> 6Amp Microcontroller Based",
+        "Wheel_Size":"Wheel Size==> 90/90-12 TL",
         "Brake_System":"Brake System==> Front & Rear Disc/Drum Brake",
         "Suspension":"Suspension==> Telescopic",
         "Chasis_Frame":"Chasis/Frame ==>Reinforced Steel",
@@ -43,7 +43,8 @@
         "Range":"Range==> 100 KM/Charge",
         "Battery_Type":"Battery Type==> Lithium lon",
         "No._of_Battery":"No. of Battery==> Single",
-        "Battery_Capacity":"Battery Capacity==>60V 30Ah/60V 30Ah"
+        "Battery_Capacity":"Battery Capacity==>60V 30Ah/60V 30Ah",
+        "Battery_Charge ":"Battery Charge Time4-5Hrs"
     },
     {
         "id": 3,

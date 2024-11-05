@@ -91,14 +91,13 @@
 
     </div>
     <div class="container">
-        <div class="title">E Rickshaw</div>
+        <div class="title">BICK</div>
         <div class="detail">
             <div class="image">
                 <img src="">
             </div>
             <div class="content">
                 <h1 class="name"></h1>
-                <div class="price"></div>
                 <div class="buttons">
                     <div class="buttons">
                         <button>
@@ -111,7 +110,27 @@
                         </button>
                     </div>
                 </div>
-                <div class="description"></div>
+             <div style="align-content: flex-start;"> 
+                <div class="Motor_Type"></div>
+                <div class="Motor_Power"></div>
+                <div class="Charger"></div>
+                <div class="Wheel_Size"></div>
+                <div class="Brake_System"></div>
+                <div class="Suspension"></div>
+
+                <div class="Chasis_Frame"></div>
+                <div class="Mode"></div>
+                <div class="Loading_Capacitty"></div>
+                <div class="Ground_Clearance"></div>
+                <div class="Dimesions"></div>
+                <div class="Seat_Height"></div>
+                <div class="Battery_Type"></div>
+                
+                <div class="Battery_Capacity"></div>
+               
+               
+              
+            </div>
             </div>
         </div>
 
@@ -125,7 +144,7 @@
         <div class="container">
             <div class="row">
                 <div class="col" id="company">
-                    <img src="images/logo.png" alt="" class="logo">
+                    <img src="/image/logo.png" alt="" class="logo">
                     <p>
                         We are specialized in designings, make your business a brand.
                         Try our premium services.
@@ -153,7 +172,7 @@
                 <div class="col" id="useful-links">
                     <h3>Links</h3>
                     <div class="links">
-                        <a href="#">About</a>
+                        <a href="/pages/about/about.html">About</a>
                         <a href="#">Services</a>
                         <a href="#">Our Policy</a>
                         <a href="#">Help</a>
@@ -164,11 +183,19 @@
                     <h3>Contact</h3>
                     <div class="contact-details">
                         <i class="fa fa-location"></i>
-                        <p>FF-42, Procube Avenue, <br> NY, USA</p>
+                        <p> C-77, Sec-63A,<br> Noida, 201307 </p>
                     </div>
                     <div class="contact-details">
                         <i class="fa fa-phone"></i>
-                        <p>+1-8755856858</p>
+                        <a href="tel:+917080515101">+917080515101</a>
+                    </div>
+                    
+                    <div class="contact-details">
+                        <i class="fab fa-whatsapp"></i>
+                        <a href="https://wa.me/9695400445
+                        " target="_blank">9695400445
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -184,6 +211,9 @@
 
         </div>
     </footer>
+
+
+
 
 
 
@@ -210,8 +240,21 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.price').innerText = '$' + thisProduct.price;
-            detail.querySelector('.description').innerText = '$' + thisProduct.description;
+            detail.querySelector('.Motor_Type').innerText = '$' + thisProduct.Motor_Type;
+            detail.querySelector('.Motor_Power').innerText = '$' + thisProduct.Motor_Power;
+            detail.querySelector('.Charger').innerText = '$' + thisProduct.Charger;
+            detail.querySelector('.Wheel_Size').innerText = '$' + thisProduct.Wheel_Size;
+            detail.querySelector('.Brake_System').innerText = '$' + thisProduct.Brake_System;
+            detail.querySelector('.Suspension').innerText = '$' + thisProduct.Suspension;
+            detail.querySelector('.Chasis_Frame').innerText = '$' + thisProduct.Chasis_Frame;
+            detail.querySelector('.Mode').innerText = '$' + thisProduct.Mode;
+            detail.querySelector('.Loading_Capacitty').innerText = '$' + thisProduct.Loading_Capacitty;
+            detail.querySelector('.Ground_Clearance').innerText = '$' + thisProduct.Ground_Clearance;
+            detail.querySelector('.Dimesions').innerText = '$' + thisProduct.Dimesions;
+            detail.querySelector('.Seat_Height').innerText = '$' + thisProduct.Seat_Height;
+            detail.querySelector('.Battery_Type').innerText = '$' + thisProduct.Battery_Type;
+            detail.querySelector('.Battery_Capacity').innerText = '$' + thisProduct.Battery_Capacity;
+           
 
 
             (products.filter(value => value.id != productId)).forEach(product => {
@@ -221,7 +264,7 @@
                 newProduct.innerHTML =
                     `<img src="${product.image}" alt="">
             <h2>${product.name}</h2>
-            <div class="price">$${product.price}</div>`;
+           `;
                 listProduct.appendChild(newProduct);
             });
         }

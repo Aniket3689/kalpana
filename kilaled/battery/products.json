@@ -1,73 +1,104 @@
 [
     {
         "id": 1,
-        "name":"Brand Model :- iPpP40130220-100",
-        "price": "Type :- prismatic",
         "image": "img/1.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"Brand Model :- iPpP40130220-100",
+        "one":" Type ==> Prismatic",
+        "two":"Connection ==>Screw Type",
+        "three":"Nominal Voltage ==>3.2v",
+        "four":"Norminal Capacity ==> 100Ah",
+        "five":" Charging Voltage ==>3.6v",
+        "six":"Cut Off Voltage ==>2.0v",
+        "seven":"Disharge Rating  ==>1c,3c",
+        "eight":"Dimension  ==> 130*220*40",
+        "nine":"Brands ==> HIGHSTAR"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
         "image": "img/2.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
+        "name":"Brand Model :- iPpP50160118-100p3",
+        "one":" Type ==> Prismatic",
+        "two":"Connection ==> Laser Spot Welding",
+        "three":"Nominal Voltage ==>3.2v",
+        "four":"Norminal Capacity ==> 100Ah",
+        "five":" Charging Voltage ==>3.6v",
+        "six":"Cut Off Voltage ==>2.0v",
+        "seven":"Disharge Rating  ==>1c,3c",
+        "eight":"Dimension  ==> 160*119*50",
+        "nine":"Brands ==> HIGHSTAR"  
+     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
         "image": "img/3.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"Brand Model :- 32700",
+        "one":" Type ==> Cylindrical",
+        "two":"Connection ==> Laser Spot Welding",
+        "three":"Nominal Voltage ==>3.2v",
+        "four":"Norminal Capacity ==> 6000mAh",
+        "five":" Charging Voltage ==>3.6v",
+        "six":"Cut Off Voltage ==>2.0v",
+        "seven":"Disharge Rating  ==>1c,3c",
+        "eight":"Dimension  ==> 32*70",
+        "nine":"Brands ==> FETECH HUAXING" 
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/4.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+
+        "name":"Brand Model :- 14500",
+        "one":" Type ==> Cylindrical",
+        "two":"Connection ==> Laser Spot Welding",
+        "three":"Nominal Voltage ==>3.7v",
+        "four":"Norminal Capacity ==> 400/500/600mAh",
+        "five":" Charging Voltage ==>4.2v",
+        "six":"Cut Off Voltage ==>2.75v",
+        "seven":"Disharge Rating  ==>1c",
+        "eight":"Dimension  ==> 14*50",
+        "nine":"Brands ==> HONGLI, YAOHUIYUAN" 
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
         "image": "img/5.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+       "name":"Brand Model :- 32140",
+        "one":" Type ==> Cylindrical",
+        "two":"Connection ==> Laser Spot Welding",
+        "three":"Nominal Voltage ==>3.2v",
+        "four":"Norminal Capacity ==> 15000mAh",
+        "five":" Charging Voltage ==>3.6v",
+        "six":"Cut Off Voltage ==>2.0v",
+        "seven":"Disharge Rating  ==>1c,2c,3c",
+        "eight":"Dimension  ==> 32*140",
+        "nine":"Brands ==> GOTION CBAK" 
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/6.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+       "name":"Brand Model :- 18650",
+        "one":" Type ==> Cylindrical",
+        "two":"Connection ==> Laser Spot Welding",
+        "three":"Nominal Voltage ==>3.7v",
+        "four":"Norminal Capacity ==> 8000mAh",
+        "five":" Charging Voltage ==>4.20v",
+        "six":"Cut Off Voltage ==>2.75v",
+        "seven":"Disharge Rating  ==>1c",
+        "eight":"Dimension  ==> 18*65",
+        "nine":"Brands ==> HONGLI ,YAOHUIYUAN"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
         "image": "img/7.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "img/8.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 9,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "img/9.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
-    {
-        "id": 10,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "img/10.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "name":"Brand Model :- 18650",
+        "one":" Type ==> Cylindrical",
+        "two":"Connection ==> Laser Spot Welding",
+        "three":"Nominal Voltage ==>3.7v",
+        "four":"Norminal Capacity ==>1800/2000/22000mAh",
+        "five":" Charging Voltage ==>4.20v",
+        "six":"Cut Off Voltage ==>2.75v",
+        "seven":"Disharge Rating  ==>1c,3c,5c",
+        "eight":"Dimension  ==> 18*65",
+        "nine":"Brands ==> HONGLI ,CHENGJIANG"
     }
-
+   
+   
+    
 ]

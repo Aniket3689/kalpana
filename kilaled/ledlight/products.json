@@ -138,82 +138,56 @@
         "id": 14,
         "image": "img/14.png",
 
-        "name":" LD06 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
+        "name":" Model.No ==> KILA-TPN-50W",
+        "two":"2 YEARS WARRANTY",
+        "three":"Watts ==> 50W",
+        "four":"Sweep ==>1200mm (48 inches)",
+        "five":"Winding ==> 230g+pure Copper"
     },
     {
         "id": 15,
         "image": "img/15.png",
 
-        "name":" LD07 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
+        "name":"Model No . LILA_ANGEL-800W",
+        "two":"Watts 800 Watts",
+        "three":"Cord Length 1.8 Metres",
+        "four":"Iron Weight 510 Gramms",
+        "five":"800W Automatic Electric Iron "
     },
     {
         "id": 16,
         "image": "img/16.png",
 
-        "name":" LD08 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
+        "name":" Model no. KILA-PRINCESS-1100W",
+        "two":"WATTS==> 1100Watts",
+        "three":"Code Lenths ==> 1.8 Metres",
+        "four":"IRON WEIGTH 1.8 METERS",
+        "five":"1100W Automatic Electric Iron"
     },
-    {
-        "id": 17,
-        "image": "img/17.png",
-
-        "name":" LD01 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
-    },
+   
     {
         "id": 18,
         "image": "img/18.png",
 
-        "name":" LD02 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
-    },
-    {
-        "id": 19,
-        "image": "img/19.png",
+        "name":" Model no. KILA-BEAUTY-1100W",
 
-        "name":" LD03 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
+        "two":"WATTS==> 1100Watts",
+        "three":"Code Lenths ==> 1.8 Metres",
+        "four":"IRON WEIGTH 550 Grams METERS",
+       "five":"1100W Automatic Electric Iron"
     },
     {
         "id": 20,
         "image": "img/20.png",
 
-        "name":" name: - LD04 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
-    },
-    {
-        "id": 21,
-        "image": "img/21.png",
+       "name":" Model no. KILA-QUEEN-1100W",
 
-        "name":" LD05 LOUNGE CHAIR",
-        "2":"",
-        "3":"",
-        "4":"",
-        "5":""
+        "two":"WATTS==> 1100Watts",
+        "three":"Code Lenths ==> 1.8 Metres",
+        "four":"IRON WEIGTH 1.950 Grams METERS",
+       "five":"1100W HEAVY WEIGHT Automatic Electric Iron"
     }
 
+   
 
 ]

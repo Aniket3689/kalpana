@@ -221,7 +221,6 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.price').innerText = '$' + thisProduct.price;
             detail.querySelector('.BATTERY').innerText = '$' + thisProduct.BATTERY;
             detail.querySelector('.MOTOR').innerText = '$' + thisProduct.MOTOR;
             detail.querySelector('.MUSIC_SUPPORT').innerText = '$' + thisProduct.MUSIC_SUPPORT;
@@ -240,8 +239,7 @@
                 newProduct.classList.add('item');
                 newProduct.innerHTML =
                     `<img src="${product.image}" alt="">
-            <h2>${product.name}</h2>
-            <div class="price">$${product.price}</div>`;
+            <h2>${product.name}</h2>`;
                 listProduct.appendChild(newProduct);
             });
         }

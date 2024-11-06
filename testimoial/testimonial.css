@@ -1,0 +1,111 @@
+/* Carousel Container */
+.carousel-container {
+  position: relative;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+/* Carousel */
+.carousel {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+/* Carousel Buttons */
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.left-btn {
+  left: 10px;
+}
+
+.right-btn {
+  right: 10px;
+}
+
+/* Carousel Cards */
+.card {
+  flex: 0 0 200px; /* Adjusted to enable responsive scaling */
+  max-width: 200px;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.card img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  font-size: 1.2em;
+  margin: 10px 0;
+  color: #333;
+}
+
+.card p {
+  font-size: 0.9em;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.card .view-more {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .card {
+      flex: 0 0 150px; /* Reduce card width on smaller screens */
+      max-width: 150px;
+  }
+
+  .carousel-btn {
+      font-size: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+      flex: 0 0 120px; /* Further reduce card width on very small screens */
+      max-width: 120px;
+  }
+
+  .carousel-btn {
+      font-size: 18px;
+      padding: 6px;
+  }
+}

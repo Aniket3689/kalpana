@@ -2,31 +2,38 @@
    
     {
         "id": 1,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
+        "name":"HOME WASH",
         "image": "img/1.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "one": "• First time user, & ply as directed and leaves for at least 2 hours of overnight, then continue as directed above.",
+        "two": "Ingredients: Hydrochloric Acid 10.5% w/v, Hydroxy Ethy Oleylamine, Cetyl Trimethyl Ammonuim Chloride, Methy Salicylate, Butylated Hydroxy Toluene, Acid Blue 80 (C.I.:61585), Acid Red 52 (C.I.:45100), Deionised Water.",
+
+        "three": "Caution: Use only for toilet bowls. Keep it closed and out of reach of children. In case of accidental contact with eyes or skin, wash immediately with plenty of water and seek medical advice. If swallowed, rinse mouth with water (only if the person is consous) & do not induce vomiting: seek medical advice immediately & show this container or label."
+
     },
     {
         "id": 2,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
+        "name":" HOME WASH",
         "image": "img/2.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
+        "one": "Ingredients==>  Lactic Acid I.P. 2% W/w, Deionised Water, Sodium Laureth Sulphate, Alkyl Benzene Sulphonic Acid, Sodium Hydroxide, Sodium Cumene Sulphonate, Fragrance, Sodium Chloride, C.I. 19140.",
+        "two": "Warning ==>Do Not Ingest, Keep Away From Children Avoid Direct Exposure To Sunlight And Use Only Non Porous Surfaces.",
+
+        "three": "Caution: Use only for toilet bowls. Keep it closed and out of reach of children. In case of accidental contact with eyes or skin, wash immediately with plenty of water and seek medical advice. If swallowed, rinse mouth with water (only if the person is consous) & do not induce vomiting: seek medical advice immediately & show this container or label."    },
     {
         "id": 3,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
+        "name":"FLOOR CLEANER",
         "image": "img/3.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
-    },
+        "one": "• First time user, & ply as directed and leaves for at least 2 hours of overnight, then continue as directed above.",
+        "two": "Ingredients: Hydrochloric Acid 10.5% w/v, Hydroxy Ethy Oleylamine, Cetyl Trimethyl Ammonuim Chloride, Methy Salicylate, Butylated Hydroxy Toluene, Acid Blue 80 (C.I.:61585), Acid Red 52 (C.I.:45100), Deionised Water.",
+
+        "three": "Caution: Use only for toilet bowls. Keep it closed and out of reach of children. In case of accidental contact with eyes or skin, wash immediately with plenty of water and seek medical advice. If swallowed, rinse mouth with water (only if the person is consous) & do not induce vomiting: seek medical advice immediately & show this container or label."    },
     {
         "id": 4,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
+        "name":" HOMEWASH",
         "image": "img/4.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "one": "• First time user, & ply as directed and leaves for at least 2 hours of overnight, then continue as directed above.",
+        "two": "Ingredients: Hydrochloric Acid 10.5% w/v, Hydroxy Ethy Oleylamine, Cetyl Trimethyl Ammonuim Chloride, Methy Salicylate, Butylated Hydroxy Toluene, Acid Blue 80 (C.I.:61585), Acid Red 52 (C.I.:45100), Deionised Water.",
+
+        "three": "Caution: Use only for toilet bowls. Keep it closed and out of reach of children. In case of accidental contact with eyes or skin, wash immediately with plenty of water and seek medical advice. If swallowed, rinse mouth with water (only if the person is consous) & do not induce vomiting: seek medical advice immediately & show this container or label."
     }
     
     

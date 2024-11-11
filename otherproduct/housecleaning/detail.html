@@ -92,14 +92,13 @@
 
     </div>
     <div class="container">
-        <div class="title">BICK</div>
+        <div class="title">HOMEWASH</div>
         <div class="detail">
             <div class="image">
                 <img src="">
             </div>
             <div class="content">
                 <h1 class="name"></h1>
-                <div class="price"></div>
                 <div class="buttons">
                     <div class="buttons">
                         <button>
@@ -112,7 +111,10 @@
                         </button>
                     </div>
                 </div>
-                <div class="description"></div>
+                <div class="one"></div>
+                <div class="two"></div>
+                <div class="three"></div>
+
             </div>
         </div>
 
@@ -221,8 +223,9 @@
 
             detail.querySelector('.image img').src = thisProduct.image;
             detail.querySelector('.name').innerText = thisProduct.name;
-            detail.querySelector('.price').innerText = '$' + thisProduct.price;
-            detail.querySelector('.description').innerText = '$' + thisProduct.description;
+            detail.querySelector('.one').innerText = '$' + thisProduct.one;
+            detail.querySelector('.two').innerText = '$' + thisProduct.two;
+            detail.querySelector('.three').innerText = '$' + thisProduct.three;
 
 
             (products.filter(value => value.id != productId)).forEach(product => {
@@ -231,8 +234,7 @@
                 newProduct.classList.add('item');
                 newProduct.innerHTML =
                     `<img src="${product.image}" alt="">
-            <h2>${product.name}</h2>
-            <div class="price">$${product.price}</div>`;
+            <h2>${product.name}</h2>`;
                 listProduct.appendChild(newProduct);
             });
         }
